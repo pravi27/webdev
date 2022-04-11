@@ -4,7 +4,7 @@ import java.util.Scanner;
      public static void main(String[] args)
      {
          Scanner s=new Scanner(System.in);
-         System.out.println("Enter weight of person");
+         System.out.println("Enter names of person");
          double weight=s.nextDouble();
          System.out.println("Enter number of people");
          int  people=s.nextInt();
